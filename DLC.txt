@@ -1,5 +1,0 @@
-DSFDA SFADSF DSAFASD DASFDA DSF ASDF
-class
-new
-run
-end
